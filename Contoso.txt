@@ -1,0 +1,34 @@
+Problem Statement for required project :
+
+------------------------------------------------
+Contoso Multinational Copany
+
+Has 12 offices :-
+	1)India
+	2)New York
+	3)London
+	4)Africa
+	5)Europe
+	6)Asia
+	7)South Africa
+	8)Japan
+	9)US
+	10)Australia	
+	11)Ingland
+	12)Thailand
+-------------------------------------
+Build and Host the Website :
+
+Name of Website : www.Contoso.CCAI.com
+
+			-->Registration of Employee
+				--Employee id
+				--Name
+				--Branch Name
+				--mail id
+				--contact number
+				--date of joining
+			-->Profile of Employee
+			-->Customer Accounting section 
+			-->customer requirements and feedback,reviews
+				

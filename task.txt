@@ -1,0 +1,33 @@
+Problem defination: 
+----------------------------
+Contoso is the multinational company, which has their multiple offices all over the world.
+Like they have their branch in India,US,Europe,New York etc.
+Each sub branches have again branches under their pannel.
+For such a huge company, they want to build and host website, so that their all employees can access it from anywhere and anytime.
+Website is to access Corporate Customers Accounting related information like customer requirements,their orders etc.
+Company also need to host this all information system in public cloud Google cloud platform.
+
+--------------------------------------------
+Functional Requirements :
+1)website can be alternative to email,some notifications can be given through site.
+2)Like Linked inn application,employee of same company can update their project reated information on it.
+3)way toward digitalization
+4)can be access through application
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+
+Non-Functional Requirements :
+
+1)employee of company can get updated with day to day notifications of company.
+2)employee can give some information like project status or regarding any issue through website to the head of company or to his/her boss.
+3)employee of one branch can communicate with employee of other branch.
+4)conferrence meetings schedule can be decide through website by uploading instructions on site.
+
+	
